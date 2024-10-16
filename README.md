@@ -6,10 +6,9 @@ Welcome to my Frontend Mentor challenge repository! This is where I’ll save my
 
 All the completed exercises, along with their live demo links, will be listed below as I finish them.
 
-| Challenge | Live Demo | Solution |
-| --------- | --------- | -------- |
-| Challenge 1 | [Live Demo](#) | [Solution](/qr-code-component-main/) |
-
+| Challenge   | Live Demo                                       | Solution                             |
+| ----------- | ----------------------------------------------- | ------------------------------------ |
+| Challenge 1 | [Live Demo](/qr-code-component-main/index.html) | [Solution](/qr-code-component-main/) |
 
 ## About Frontend Mentor
 
@@ -30,6 +29,7 @@ For more information about Frontend Mentor, visit their [website](https://www.fr
 ## How to View My Work
 
 For each challenge, I’ll provide two links:
+
 1. **Live Demo**: A live, hosted version of the challenge.
 2. **Solution**: A link to the solution on Frontend Mentor.
 

@@ -1,0 +1,108 @@
+@import url("https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap");
+
+* {
+  font-family: "Figtree", sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f4d04e;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: calc(100vh - 1px);
+}
+
+img {
+  max-width: 100%;
+}
+
+.card {
+  background-color: white;
+  height: 474px;
+  width: 336px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  border-radius: 20px;
+  padding: 24px;
+  border: 1px solid #111;
+  margin-bottom: 1em;
+  box-shadow: 8px 8px 0px 0px #000;
+}
+
+.card img {
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.text .button button {
+  background-color: #f4d04e;
+  width: 5.125rem;
+  height: 1.813rem;
+  padding: 4px 12px;
+  font-weight: 800;
+  color: #111;
+  border-radius: 4px;
+  border: none;
+}
+
+.text .date p {
+  font-weight: 500;
+}
+
+.text .heading p {
+  font-size: 24px;
+  font-weight: 800;
+  color: #111;
+}
+
+.text .heading :hover {
+  color: #f4d04e;
+  cursor: pointer;
+}
+
+.text .content p {
+  color: #6b6b6b;
+  font-weight: 500;
+  line-height: 150%;
+}
+
+.author {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.author .image img {
+  width: 32px;
+  height: 32px;
+}
+
+.author .text p {
+  font-size: 14px;
+  font-weight: 800;
+  line-height: 150%;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}

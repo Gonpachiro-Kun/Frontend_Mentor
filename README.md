@@ -9,6 +9,7 @@ All the completed exercises, along with their live demo links, will be listed be
 | Challenge   | Live Demo                                       | Solution                             |
 | ----------- | ----------------------------------------------- | ------------------------------------ |
 | Challenge 1 | [Live Demo](/qr-code-component-main/index.html) | [Solution](/qr-code-component-main/) |
+| Challenge 2 | [Live Demo](/blog-preview-card-main/index.html) | [Solution](/blog-preview-card-main/) |
 
 ## About Frontend Mentor
 
